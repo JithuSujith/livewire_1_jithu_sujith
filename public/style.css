@@ -1,0 +1,21 @@
+.Herosec{
+    min-height: 80vh;
+    background-image: url('./images/wallpaper.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: antiquewhite;
+}
+
+h1{
+    font-size: 100px;
+    font-family: 'UnifrakturCook', cursive;
+}
+
+h2{
+    font-size: 75px;
+}
